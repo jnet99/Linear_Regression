@@ -33,3 +33,5 @@ Created GIFs to visualize how predictions change with different degree and lambd
 **Insights**
 - Higher degree allows fitting complex patterns but risks overfitting without regularization.
 - Regularization (lambda > 0) smooths predictions and improves generalization.
+
+```
