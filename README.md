@@ -1,5 +1,5 @@
 # ML_Linear_Regression
-```
+
 Summary of Linear Regression Code Assignment
 In this assignment, I implemented a Python function called linear_regression to perform polynomial regression on training data and evaluate the model on test data. The function was designed to handle datasets with varying degrees of polynomial features and incorporate L2 regularization. Below is an overview of my implementation and results:
 
@@ -34,4 +34,3 @@ Created GIFs to visualize how predictions change with different degree and lambd
 - Higher degree allows fitting complex patterns but risks overfitting without regularization.
 - Regularization (lambda > 0) smooths predictions and improves generalization.
 
-```
